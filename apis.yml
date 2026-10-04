@@ -39,7 +39,6 @@ apis:
   - name: Lucifer Quotes
     description: "Returns Lucifer quotes"
     humanURL: https://github.com/shadowoff09/lucifer-quotes
-    baseURL: https://github.com/shadowoff09/lucifer-quotes
     tags:
       - Video
     properties:
